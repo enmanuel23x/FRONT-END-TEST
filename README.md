@@ -43,6 +43,6 @@ module.exports = data
   - `apiURL` parametro requerido al realizar la conexión al servicio REST **(no alterar este parametro)**.
  
 #### Recomendaciones
- - *(Se recomienda leer mas en EL README.md en el repositorio **[servicio REST](http://localhost:2001)**.)*.
- - *(Se recomienda leer mas en EL README.md en el repositorio **[servicio SOAP](http://localhost:2001)**.)*.
+ - *(Se recomienda leer mas en EL README.md en el repositorio **[servicio REST](https://github.com/enmanuel23x/REST-API_TEST)**.)*.
+ - *(Se recomienda leer mas en EL README.md en el repositorio **[servicio SOAP](https://github.com/enmanuel23x/SOAP-API-TEST)**.)*.
 
